@@ -3,6 +3,7 @@
 
 ;#define CFGFILE apple2-asm.cfg
 ;#link "load-and-run-basic.s"
+;#resource "apple2.rom"
 
 .export ASoftProg, ASoftEnd
 .import LoadAndRunBasic
